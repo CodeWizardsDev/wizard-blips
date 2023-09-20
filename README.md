@@ -14,6 +14,8 @@
 - 🗒️ Customizable Blip Type
 - 🗒️ Customizable Blip Color
 - 🗒️ Customizable Blip Opacity (0 - 100, HIGHER VALUE = LOWER TRANSPARENCY)
+- 🗒️ Customizable Blip Job/Job Grade
+- 🗒️ Customizable Blip Gang/Gang Grade
 - 🗒️ Customizable Blip Range (ShortRange Or HighRange, HIGHRANGE WILL PIN BLIP ON MINIMAP)
 - 🗒️ Customizable Blip Flashing Effect
 - 🗒️ Customizable Blip Flashing Effect Timer
