@@ -37,8 +37,8 @@ Config.Singles = {
         selectable = true,                                      -- Should we allow players to select this blip on map while display = 'all'? (while false, we will it remove from blips list on the map)
                         
         
-        gang = 'lostmc',
-        ganggrade = 0,
+        gang = 'lostmc',                                        -- Required gang to show blip
+        ganggrade = 0,                                          -- Required gang grade to show blip, 0 for all grades
         sprite = 357,                                           -- Blip type
         color = 28,                                             -- Blip color
         opacity = 100,                                          -- Blip Opacity (0 - 100)
