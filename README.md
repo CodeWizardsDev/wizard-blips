@@ -25,7 +25,7 @@
 - 🗒️ Customizable Blip Coords
 
 # Depencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-core] or [qbx_core] or [esx]
 
 # Installation
 - Drag and drop the file in your `resources` folder
