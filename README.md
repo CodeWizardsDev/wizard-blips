@@ -6,7 +6,7 @@
 
 
 # Features
-- 🧨 QBCore Ready (OTHER FRAMEWORKS ON THE WAY!)
+- 🧨 QBox, QBCore and ESX Ready (OTHER FRAMEWORKS ON THE WAY!)
 
 - 🗒️ Customizable Blip Name
 - 🗒️ Customizable Blip Display (Show On Map, MiniMap Or Both)
@@ -33,9 +33,9 @@
 
 - Customize the script as you want!
 
- ## Customizing
- - All config options are easy to understand!
+## Customizing
+- All config options are easy to understand!
 
 # Support
 - [Discord Server](https://discord.gg/ZBvacHyczY)
-- Discord ID: mohammad_hs5
+- Discord ID: the_hs5
