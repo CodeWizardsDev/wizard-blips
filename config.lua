@@ -16,11 +16,10 @@
 --          Thank you for downloading our script! we're glad to help you to make your server better:)
 --          Feel free to contact us if you have any problem/idea for this script! 
 --
---          Script Wiki: none
+--          Script Wiki: https://code-wizards.gitbook.io/codewizards/blips-system/configuration
 --
 --          CodeWizards Discord Server: https://discord.gg/ZBvacHyczY
 --          CodeWizards Github: https://github.com/CodeWizardsDev
---          CodeWizards WebSite: SOON!
 
 
 
