@@ -1,41 +1,51 @@
-# ShowCase
-0.00ms resmon
+<h1 align="center">Wizard Blips System</h1>
+
+<p align="center"> Advanced fivem blips system script with many features!
+    <br> 
+</p>
 
 ![image](https://github.com/CodeWizardsDev/wizard-blips/assets/94300419/4af4413d-394c-4f9a-8a97-132027f0884c)
 
 
+## 📝 Table of Contents
 
-# Features
-- 🧨 QBox, QBCore and ESX Ready (OTHER FRAMEWORKS ON THE WAY!)
+- [WIKI PAGE](https://code-wizards.gitbook.io/codewizards/blips-system/informations)
+- [Dependencies](#dependencies)
+- [Features Scope](#feature_scope)
+- [Authors](#authors)
+- [Translations](#trans)
+- [Support](#support)
+- [License](#license)
 
-- 🗒️ Customizable Blip Name
-- 🗒️ Customizable Blip Display (Show On Map, MiniMap Or Both)
-- 🗒️ Customizable Blip Selecting (You Can Remove Blip From GTA Blips List And Make That UnSelectable)
-- 🗒️ Customizable Blip Type
-- 🗒️ Customizable Blip Color
-- 🗒️ Customizable Blip Opacity (0 - 100, HIGHER VALUE = LOWER TRANSPARENCY)
-- 🗒️ Customizable Blip Job/Job Grade
-- 🗒️ Customizable Blip Gang/Gang Grade
-- 🗒️ Customizable Blip Range (ShortRange Or HighRange, HIGHRANGE WILL PIN BLIP ON MINIMAP)
-- 🗒️ Customizable Blip Flashing Effect
-- 🗒️ Customizable Blip Flashing Effect Timer
-- 🗒️ Customizable Blip Shrink Effect
-- 🗒️ Customizable Blip Route Mode (With This, Blip Will Be Player's Custom WayPoint)
-- 🗒️ Customizable Blip Route Color
-- 🗒️ Customizable Blip Coords
 
-# Depencies
-- [qb-core] or [qbx_core] or [esx]
+## ⛓️ Dependencies <a name = "dependencies"></a>
 
-# Installation
-- Drag and drop the file in your `resources` folder
-- Add this to your server cfg server.cfg  `ensure wizard-blips`
+- [qb-core], [qbx_core], or [esx]
 
-- Customize the script as you want!
+## 🚀 Features Scope <a name = "feature_scope"></a>
 
-## Customizing
-- All config options are easy to understand!
+- QBox, QBX, and ESX Ready (Other frameworks coming soon!)
+- Customizable Blip Name
+- Customizable Blip Display (Show on Map, MiniMap, or Both)
+- Customizable Blip Selection (Remove blip from GTA blips list and make it unselectable)
+- Customizable Blip Type (Sprite)
+- Customizable Blip Color
+- Customizable Blip Opacity (0 - 100, higher value = lower transparency)
+- Customizable Blip Scale
+- Customizable Blip Range (ShortRange or HighRange; HighRange pins blip on minimap)
+- Customizable Blip Flashing Effect and Interval
+- Customizable Blip Shrink Effect (may cause high resmon)
+- Customizable Blip Route Mode (Set blip as player's custom waypoint)
+- Customizable Blip Route Color
+- Customizable Blip Coordinates
+- Support for Job and Gang based blip visibility and grades
 
-# Support
-- [Discord Server](https://discord.gg/ZBvacHyczY)
-- Discord ID: the_hs5
+
+## ✍️ Authors <a name = "authors"></a>
+- @The_Hs5
+
+## 🤝 Support <a name = "support"></a>
+For support, join our Discord server: [CodeWizards Discord](https://discord.gg/ZBvacHyczY)
+
+## License <a name = "license"></a>
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
